@@ -1,16 +1,11 @@
-﻿# website-upload-20260530-164901-107
+# 精选国产电视剧
 
-Batch 107 of 50. Contains extracted static website versions. The original zip files are not committed.
+纯静态电影网站已生成。
 
-| Directory | Source zip |
-| --- | --- |
-| version-1061 | project-bolt-sb1-gbn1bcwa-chatgpt (1) (moved 1).zip |
-| version-1062 | project-bolt-sb1-gbn1bcwa-chatgpt (1).zip |
-| version-1063 | project-bolt-sb1-gbn1bcwa-chatgpt (2).zip |
-| version-1064 | project-bolt-sb1-gbtq19h4 - 副本-chatgpt (1) (moved 1).zip |
-| version-1065 | project-bolt-sb1-gbtq19h4-chatgpt (1) (moved 1).zip |
-| version-1066 | project-bolt-sb1-gbtq19h4-chatgpt (1) (moved 2).zip |
-| version-1067 | project-bolt-sb1-gbtq19h4-chatgpt (2).zip |
-| version-1068 | project-bolt-sb1-gbyuwskl - 副本-chatgpt (1) (moved 2).zip |
-| version-1069 | project-bolt-sb1-gbyuwskl-chatgpt (1) (moved 1).zip |
-| version-1070 | project-bolt-sb1-gbyuwskl-chatgpt (1) (moved 2).zip |
+- 影片解析数量：2000
+- 独立详情页：2000
+- 独立分类页：10
+- 播放源：从上传 JS 中提取 m3u8 地址并循环绑定
+- 封面引用：顶级目录 1.jpg 到 150.jpg
+
+部署时把 1.jpg 到 150.jpg 放在网站根目录即可显示对应封面。
